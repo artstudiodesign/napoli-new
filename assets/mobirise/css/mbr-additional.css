@@ -917,7 +917,7 @@ pre {
     }
     .cid-s9L75U2fh9 .carousel img {
   width: 100%;
-  height: 450px;
+  height: 400px;
         object-fit: cover;}
     
     .cid-s9L75U2fh9 .carousel-caption{
@@ -925,12 +925,12 @@ pre {
         
     }
     .cid-s9L75U2fh9 .carousel-item, .cid-s9L75U2fh9 .carousel-inner{
-         height: 450px;
+         height: 400px;
         width: 100%;
         
     }
     .cid-s9L75U2fh9 .carousel{
-        height: 450px;
+        height: 400px;
     }
 }
 }
