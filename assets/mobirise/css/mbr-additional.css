@@ -2062,11 +2062,11 @@ a {
     padding-right: 2rem;
   }
   .cid-s9L75U2fh9 .carousel {
-    height: 760px;
+    height: 770px;
   }
   .cid-s9L75U2fh9 .carousel img {
     width: 100%;
-    height: 100%;
+    height: 770px;
     object-fit: cover;
   }
   .cid-s9L75U2fh9 .carousel-item,
@@ -2082,22 +2082,22 @@ a {
     padding-right: .5rem;
   }
   .cid-s9L75U2fh9 .carousel {
-    height: 350px ! important;
+    height: 450px! important;
   }
   .cid-s9L75U2fh9 .carousel img {
     width: 100% ! important;
-    height: 350px ! important;
-    object-fit: cover;
+    height: 100% ! important;
   }
   .cid-s9L75U2fh9 .carousel-item,
   .cid-s9L75U2fh9 .carousel-inner {
-    height: 350px;
+    height: 450px !important;
   }
   .cid-s9L75U2fh9 .container .carousel-control {
     margin: auto!important;
   }
   .cid-s9L75U2fh9 .content-slider-wrap {
     width: 100% !important;
+    height: 450px ! important;
   }
 }
 .cid-s9L75U2fh9 .mbr-overlay {
@@ -2121,7 +2121,7 @@ a {
   width: 100%;
 }
 .cid-s9L75U2fh9 .container .carousel-indicators {
-  margin-bottom: 8px;
+  margin-bottom: 0px;
 }
 .cid-s9L75U2fh9 .carousel-control {
   top: 50%;
@@ -2144,7 +2144,7 @@ a {
 }
 @media (max-width: 767px) {
   .cid-s9L75U2fh9 .carousel-control {
-    top: 80%;
+    top: 93%;
     bottom: 1rem;
   }
 }
@@ -2184,6 +2184,9 @@ a {
   .cid-s9L75U2fh9 .carousel-indicators {
     display: none !important;
   }
+}
+.cid-s9L75U2fh9 h5 {
+  text-shadow: 2px 2px 5px black;
 }
 .cid-s9JYTw7nPS {
   padding-top: 15px;
