@@ -555,7 +555,7 @@
               },
               ".content-slider-wrap": {
                 "width": "100% !important",
-                "height": "450px ! important"
+                "height": "600px ! important"
               }
             },
             "background-color": "@bgColor",
